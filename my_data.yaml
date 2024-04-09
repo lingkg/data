@@ -1,0 +1,10 @@
+path: /kaggle/input/data02/mydata
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: open
+  1: noyawn
+  2: yawn
+  3: close
